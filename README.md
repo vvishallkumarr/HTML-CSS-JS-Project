@@ -1,2 +1,2 @@
 # HTML-CSS-JS-Project
-This is my frontend project repository.
+This is my first frontend project repository.
